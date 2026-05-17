@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Loom Clothing",
+  "description": "A premium clothing store with a high-performance admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
